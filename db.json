@@ -1,0 +1,8 @@
+{
+  "alunos": [
+    {"id": 1, "nome": "Marcelo Silva", "n1": 9.0, "n2": 8.0},
+    {"id": 2, "nome": "Fatima Orochi", "n1": 10.0, "n2": 9.5},
+    {"id": 3, "nome": "Juliana Bonde", "n1": 9.5, "n2": 7.0},
+    {"id": 4, "nome": "Mane Garrincha", "n1": 8.0, "n2": 6.0}
+  ]
+}
